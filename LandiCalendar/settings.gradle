@@ -1,1 +1,2 @@
+include ':mylibrary'
 include ':app'

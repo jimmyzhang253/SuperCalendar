@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jimmy.calendar">
+
+    <application>
+        <activity android:name="com.jimmy.calendar.week.WeekActivity" />
+        <activity android:name="com.jimmy.calendar.month.MonthActivity" />
+        <activity android:name="com.jimmy.calendar.day.DayActivity" />
+        <activity android:name="com.jimmy.calendar.day.DayFutureActivity" />
+    </application>
+</manifest>
